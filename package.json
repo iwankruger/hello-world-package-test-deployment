@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-package-test",
+  "version": "1.0.0",
+  "description": "Test package for npm",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -r build && tsc",
+    "watch-ts": "tsc -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
