@@ -6,4 +6,4 @@ class Hello {
 
 }
 
-export default Hello;
+export { Hello };

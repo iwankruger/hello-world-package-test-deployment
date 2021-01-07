@@ -1,6 +1,6 @@
 {
   "name": "hello-world-package-test-deployment",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "description": "Test package for npm",
   "main": "build/index.js",
   "module": "build/index.es.js",
